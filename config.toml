@@ -2,7 +2,7 @@ baseURL = "http://doomkeeper.com/"
 languageCode = "en-us"
 title = "doomkeeper"
 theme = "minimal"
-disqusShortname = "codeisart" # delete this to disable disqus comments
+disqusShortname = "doomkeeper" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
